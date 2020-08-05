@@ -1,0 +1,21 @@
+From ee0e822c9a1fad55d4d98c402dc2b042d5a311d8 Mon Sep 17 00:00:00 2001
+From: Rasheed <rasheed.saka85@yahoo.com>
+Date: Tue, 4 Aug 2020 23:07:10 -0400
+Subject: [PATCH] Update client.pyc
+
+---
+ client.pyc | Bin 1402 -> 1402 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/client.pyc b/client.pyc
+index 2d17e80ccbe70d71136099f645faa8546af1ba06..a7ef789bdc0a80e287f2e13a085059e5712c068a 100644
+GIT binary patch
+delta 15
+Wcmeyx^^1#*`7<xq60wbJC9D804Fv`O
+
+delta 15
+Wcmeyx^^1#*`7<xqO|Fe>C9D814+Sp(
+
+-- 
+2.26.2
+
